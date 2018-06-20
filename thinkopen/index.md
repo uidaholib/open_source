@@ -4,6 +4,8 @@ layout: page
 permalink: /thinkopen/
 ---
 
+<div markdown="1" class="row">
+<div markdown="1" class="col-md-8"><div markdown="1" class="py-2 px-2">
 
 # Think Open Fellowship 
 
@@ -23,3 +25,9 @@ This fellowship awards $1,000-$2,000 to selected faculty, and fellows would be e
 - Fellows who complete the program will have the opportunity to serve as mentors for the following year’s fellows
 
 Faculty teaching high enrollment courses, dual-enrollment courses, and Idaho Gem courses are especially encouraged to apply.
+
+</div></div>
+<div class="col-md-4">
+<img class="img-fluid" src="{{ '/assets/images/think_open.png' | relative_url }}" alt="light bulb think open logo">
+</div>
+</div>
