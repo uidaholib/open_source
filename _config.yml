@@ -11,6 +11,10 @@ keywords: university of idaho, Library, Idaho, Open, OA, OER
 email: ewilliamson@uidaho.edu
 
 # url variables
-url: https://open.lib.uidaho.edu
-baseurl: 
+# url: https://open.lib.uidaho.edu
+# baseurl: 
+# dev urls for gh-pages
+url: https://uidaholib.github.io
+baseurl: /open_source
+
 liburl: https://www.lib.uidaho.edu
