@@ -35,7 +35,17 @@ main {
         font-size: 13.5px;
         line-height: 1;
     }
- }
+}
+.lib-logo-sm {
+    border: none;
+    img { 
+        height: 35px;
+    }
+}
+.lib-logo-lg {
+    height: 55px;
+}
+
 /* nav bar */
 .navbar-light .navbar-nav .nav-link {
     font-size: 18px;
