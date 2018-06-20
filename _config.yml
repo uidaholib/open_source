@@ -1,0 +1,16 @@
+# Jekyll Library Website Generator
+
+# Note: use environment variable on build command to include analytics
+# JEKYLL_ENV=production jekyll build
+
+# Site settings
+title: Open @ UIdaho Library
+tagline: "Open initiatives at University of Idaho Library" 
+description: "Open initiatives at University of Idaho Library" 
+keywords: university of idaho, Library, Idaho, Open, OA, OER
+email: ewilliamson@uidaho.edu
+
+# url variables
+url: https://open.lib.uidaho.edu
+baseurl: 
+liburl: https://www.lib.uidaho.edu
