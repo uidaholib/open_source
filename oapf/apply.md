@@ -10,11 +10,11 @@ Prior to submitting an application, please review the [UI-OAPF Eligibility and G
 
 Additionally, authors interested in the UI-OAPF are strongly encouraged to speak with their [liaison librarian](https://www.lib.uidaho.edu/about/liaisons.html) or the UI-OAPF Fund Manager ([Jylisa Doney](mailto:jylisadoney@uidaho.edu)) to determine whether journals and publishers meet the eligibility criteria.
 
-**Apply Now**
+# Apply Now
 
 ## Application Process
 1. Review [eligibility and guidelines](https://open.lib.uidaho.edu/oapf/eligibility)
-2. Reach out to [liaison librarian](https://www.lib.uidaho.edu/about/liaisons.html) or the UI-OAPF Fund Manager ([Jylisa Doney](mailto:jylisadoney@uidaho.edu)) with any questions
+2. Reach out to a [liaison librarian](https://www.lib.uidaho.edu/about/liaisons.html) or the UI-OAPF Fund Manager ([Jylisa Doney](mailto:jylisadoney@uidaho.edu)) with any questions
 3. Submit an application
 4. Upon submission, applicants receive a confirmation email with a copy of their submission
 
