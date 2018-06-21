@@ -16,7 +16,7 @@ Articles must be accepted for publication before submitting a UI-OAPF applicatio
 ## Journal Criteria
 Journals must be listed in the [Directory of Open Access Journals](https://doaj.org/) (DOAJ) and journal publishers must be members of, or comply with, the [Open Access Scholarly Publishers Association](https://oaspa.org/membership/members/) (OASPA).
 
-All journals must utilize peer-review and make articles fully open upon publication.
+All journals must utilize peer-review and make articles fully open upon publication. Hybrid journals are ineligible for funding.
 
 We use DOAJ and OASPA membership criteria to verify that publishers and journals adhere to responsible, sustainable, and non-exploitative publishing behavior.
 
