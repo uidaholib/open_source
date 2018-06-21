@@ -1,8 +1,9 @@
 ---
 title: Apply
-layout: page
-permalink: /oapf/apply/
+layout: oldstyle
+# permalink: /oapf/apply/
 ---
+
 # Application and Award Process
 
 Please review the [UI-OAPF Eligibility and Guildines](https://www.lib.uidaho.edu/services/oapf/eligibility.html) to ensure that your application meets all criteria.

@@ -1,8 +1,9 @@
 ---
 title: Eligibility and Guidelines
-layout: page
-permalink: /oapf/eligibility/
+layout: oldstyle
+# permalink: /oapf/eligibility/
 ---
+
 # Eligibility and Guidelines
 
 UI-OAPF accepts applications on a first-come, first-served basis starting July 1, 2018 until funds are exhausted or the end of the fiscal year.

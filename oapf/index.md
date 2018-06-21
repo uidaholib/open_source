@@ -1,7 +1,7 @@
 ---
 title: Open Access Publishing Fund
-layout: page 
-permalink: /oapf/
+layout: oldstyle
+# permalink: /oapf/
 ---
 
 # University of Idaho Open Access Publishing Fund (UI-OAPF)

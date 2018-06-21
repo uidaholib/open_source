@@ -1,8 +1,9 @@
 ---
-title: About
-layout: page
-permalink: /oapf/about/
+title: About UI-OAPF
+layout: oldstyle
+# permalink: /oapf/about/
 ---
+
 As a land grant university, the University of Idaho (UI) seeks to “shape the future through innovative thinking” and “expand the institution’s intellectual and economic impact.”<sup>1</sup> 
 
 The UI-OAPF supports this vision by making the innovative research conducted at UI as widely accessible as possible.
