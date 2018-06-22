@@ -27,4 +27,10 @@ layout: oldstyle
 {% endfor %}
 {% endfor %}
 
+<div class="center">
+    <a href="/services/oapf/eligibility.html" class="btn btn-default about-button" type="button"><span class="glyphicon glyphicon-list"></span> Eligibility</a>
+    <a href="/services/oapf/apply.html" class="btn btn-default about-button" type="button"><span class="glyphicon glyphicon-ok"></span> Apply</a>
+	<a href="mailto:jylisadoney@uidaho.edu" class="btn btn-default about-button" type="button"><span class="glyphicon glyphicon-user"></span> Contact</a>
+</div>
+<br>
 
