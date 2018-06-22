@@ -24,7 +24,7 @@ UI authors interested in the UI-OAPF are strongly encouraged to speak with their
 
 ### Award Process
 
-1. UI-OAPF Fund Manager will use a standard rubric to evaluate application based on eligibility criteria and make funding decision
+1. UI-OAPF Fund Manager will use a [standard rubric](RubricTemplate_UIOAPF.pdf) to evaluate application based on eligibility criteria and make funding decision
 2. UI-OAPF Fund Manager will email applicants their funding decision and a copy of the rubric
 3. Funded applicants will forward their invoice for payment by the UI-OAPF
   
@@ -33,3 +33,9 @@ UI authors interested in the UI-OAPF are strongly encouraged to speak with their
 The UI-OAPF prefers to pay journals directly, thus minimizing out-of-pocket cost to the authors. Upon funding approval, the funded applicant will forward their invoice directly to the Library’s Administrative Financial Specialist ([Jennifer Mylan](mailto:jmylan@uidaho.edu)) and the UI-OAPF Fund Manager ([Jylisa Doney](mailto:jylisadoney@uidaho.edu)), or direct the journal to do so.
 
 However, in case of publication deadlines, authors may opt to be reimbursed with proper documentation of payment. The UI-OAPF will review other possible payment options as needed, e.g. paying out of departments with intra-institutional account transfers.
+
+<div class="center">
+    <a href="/services/oapf/eligibility.html" class="btn btn-default about-button" type="button"><span class="glyphicon glyphicon-list"></span> Eligibility</a>
+	<a href="/services/oapf/faq.html" class="btn btn-default about-button" type="button"><span class="glyphicon glyphicon-question-sign"></span> FAQ</a>
+	<a href="mailto:jylisadoney@uidaho.edu" class="btn btn-default about-button" type="button"><span class="glyphicon glyphicon-user"></span> Contact</a>
+</div>
