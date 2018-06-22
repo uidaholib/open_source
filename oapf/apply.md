@@ -10,7 +10,8 @@ Please review the [UI-OAPF Eligibility and Guildines](https://www.lib.uidaho.edu
 
 UI authors interested in the UI-OAPF are strongly encouraged to speak with their [liaison librarian](https://www.lib.uidaho.edu/about/liaisons.html) or the UI-OAPF Fund Manager ([Jylisa Doney](mailto:jylisadoney@uidaho.edu)) to determine whether journals and publishers meet the eligibility criteria.
 
-# Apply Now
+**Application opens July 1, 2018**
+# [Apply Now](https://uidaho.co1.qualtrics.com/jfe/form/SV_1CcxsbyVwwjDOHb)
 
 ## Application Process
 1. Review [eligibility and guidelines](https://www.lib.uidaho.edu/services/oapf/eligibility.html)
