@@ -20,7 +20,7 @@ Journals must:
 * Be listed in the [Directory of Open Access Journals](https://doaj.org/) (DOAJ) 
 * Utlilize peer-review
 * Make articles fully open upon publication
-  * Hybrid journals are ineligible for funding
+  * Hybrid journals, toll-access journals that make certain articles freely available, are ineligible for funding
 
 Journal publishers must:
 * Be members of, or comply with, the [Open Access Scholarly Publishers Association](https://oaspa.org/membership/members/) (OASPA)
