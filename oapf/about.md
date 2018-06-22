@@ -4,7 +4,7 @@ layout: oldstyle
 # permalink: /oapf/about/
 ---
 
-As a land grant university, the University of Idaho (UI) seeks to “shape the future through innovative thinking” and “expand the institution’s intellectual and economic impact.”<sup>1</sup> 
+As a land grant university, the University of Idaho (UI) seeks to "shape the future through innovative thinking" and "expand the institution's intellectual and economic impact."<sup>1</sup> 
 
 The UI-OAPF supports this vision by making the innovative research conducted at UI as widely accessible as possible.
 
@@ -18,4 +18,4 @@ For the pilot year (FY 19), the fund partners have allocated $30,000 to pay arti
 
 Applications that meet all eligibility criteria, including article and author caps, are accepted on a first-come, first-served basis starting July 1, 2018 until funds are exhausted or the end of the fiscal year.
 
-<sup>1</sui>The Office of the Provost & Executive Vice President, “Strategic Plan and Process | 2016-2025,” University of Idaho, accessed April 27, 2018, [http://www.uidaho.edu/provost/strategic-plan](http://www.uidaho.edu/provost/strategic-plan)
+<sup>1</sup>The Office of the Provost & Executive Vice President, “Strategic Plan and Process | 2016-2025,” University of Idaho, accessed April 27, 2018, <http://www.uidaho.edu/provost/strategic-plan>.
